@@ -1,0 +1,5 @@
+.footerComponent {
+  background-color: var(--main-second-color);
+  padding: 10px;
+  text-align: center;
+}
